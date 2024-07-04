@@ -1,0 +1,19 @@
+{
+  "name": "mern-project",
+  "version": "1.0.0",
+  "description": "A basic MERN project",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vanboylan/MERN-project.git"
+  },
+  "author": "J Boylan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vanboylan/MERN-project/issues"
+  },
+  "homepage": "https://github.com/Vanboylan/MERN-project#readme"
+}
